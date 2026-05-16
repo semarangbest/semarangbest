@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Accept-Encoding, Cookie","Content-Type":"Content-Type: text\/html; charset=UTF-8","Last-Modified":"Last-Modified: Tue, 09 Sep 2025 01:53:53 GMT"},"uri":"semarang.qpoe.com\/?action=getTelegramConfig","blog_id":1,"post":0,"key":"semarang.qpoe.com443\/?action=getTelegramConfig"}

@@ -1,0 +1,3 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+$environment_variable = '{"themes":{"1":{"themes_url":"https:\/\/semarang.qpoe.com\/wp-content\/themes","use_child_theme":false,"main":{"folder_name":"mini","mapped_name":""}}},"allowed_paths":["\/var\/www\/semarang.qpoe.com\/wp-content\/themes"],"wordpress_directory":"","site_relative_path":"\/","cache_path":"\/var\/www\/semarang.qpoe.com\/wp-content\/cache\/wph\/"}'; ?>
